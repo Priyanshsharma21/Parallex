@@ -54,14 +54,14 @@
 /* -----------------------item1-------------------------- */
 .item__main_typo{
     position: relative;
-    left: 310px;
+    left: 500px;
     top: 135px;
     z-index:122;
 }
 
 .item__main_typo2{
     position: absolute;
-    right: 1123px;
+    right: 1323px;
     top: 215px;
     z-index:122;
 }
@@ -341,7 +341,7 @@
     /* border: 2px solid yellow; */
     border-radius: 200px;
     position: absolute;
-    left: 610px;
+    left: 510px;
     top: 120px;
     z-index: 1;
 
